@@ -1,4 +1,4 @@
-# UX-DESIGN-EVEYES360_TRACKING
+# UX-DESIGN-TRACKING
 
 🎁 The Handover
 
@@ -18,7 +18,7 @@ Admin Panel: Hastane yönetiminin (Kayıtlı Hastane İsminle) hastaların genel
 3. Database & Storage (The Memory)Kayıt: Kullanıcının seans geçmişini (Hangi gün hangi makamı dinledi, stres skoru neydi) tutan veritabanı.Hospital Branding: Hastane isminin (kaydettiğimiz şekilde) tüm reçetelerde ve raporlarda görünmesi.
 4. Physical Integration (The Multisensory Output)Musiki Player: Makamları 432Hz kalitesinde çalan ses modülü.Aroma Trigger: (Simüle edilmiş veya gerçek) Koku makinesine sinyal gönderen API tetikleyicisi.
 5.Databse
-🗄️ EVEYES 360: Veritabanı Mimarisi (PostgreSQL/SQLAlchemy)
+🗄️ Veritabanı Mimarisi (PostgreSQL/SQLAlchemy)
 Müşterine "Verileriniz bu yapıda, güvenli ve ilişkisel olarak tutuluyor" diyerek sunabileceğin teknik şema şudur:
 
 1. Kullanıcı Tablosu (Users Table)
